@@ -1,0 +1,15 @@
+{
+  "tv show": "tvSeason",
+  "movie": "movie",
+  "ebook": "ebook",
+  "album": "album",
+  "iphone or universal application": "software",
+  "ipad application": "iPadSoftware",
+  "mac application": "macSoftware",
+  "audiobook": "audiobook",
+  "podcast": "podcast",
+  "music video": "musicVideo",
+  "apple movie id": "id",
+  "apple album id": "id",
+  "short film": "shortFilm"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "find-itunes-artwork",
+  "version": "1.0.0",
+  "description": "An API that can be used to find iTunes artwork ",
+  "main": "find-itunes-artwork.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "node_modules/eslint/bin/eslint.js src/*.js test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mike-Gough/find-itunes-artwork"
+  },
+  "keywords": [
+    "itunes",
+    "cli",
+    "lint",
+    "artwork",
+    "find",
+    "finder"
+  ],
+  "author": "Mike Gough",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.0"
+  },
+  "private": false
+}
