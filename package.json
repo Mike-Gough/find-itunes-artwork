@@ -1,6 +1,6 @@
 {
   "name": "find-itunes-artwork",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An API that can be used to find iTunes artwork ",
   "main": "find-itunes-artwork.js",
   "scripts": {
