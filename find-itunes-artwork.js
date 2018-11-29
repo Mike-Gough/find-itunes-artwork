@@ -6,7 +6,7 @@ var _     = require('lodash') // Lodash library
 var entityEnum = require('./entities.json')
 var countryEnum = require('./countries.json')
 
-exports.search = function(entity, country, searchParams) {
+module.exports = function search(entity, country, searchParams) {
   return new Promise(
     function (resolve, reject) {
 
